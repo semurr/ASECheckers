@@ -1,0 +1,4 @@
+Have java 7 installed
+
+On the command line navigate to this directory.
+then run java -jar CheckersTest.jar
